@@ -1,0 +1,25 @@
+{
+  "name": "eslint-airbnb-react-prettier",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/jalal246/eslint-airbnb-react-prettier.git",
+  "author": "Jalal Maskoun <jimmy002020@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "eslint-plugin-tree-shaking": "^1.8.0",
+    "prettier": "2.1.1"
+  },
+  "keywords": [
+    "eslint",
+    "airbnb",
+    "react",
+    "prettier"
+  ]
+}
