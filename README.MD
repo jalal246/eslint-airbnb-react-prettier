@@ -6,3 +6,11 @@ A custom Eslint contains configuration for:
 - Eslint Airbnb plugin
 - Eslint Plugin React/React hooks/jsx-a11y
 - Eslint Tree-shaking plugin
+
+## Usage
+
+```js
+module.exports = {
+  extends: ["eslint-airbnb-react-prettier"],
+};
+```
