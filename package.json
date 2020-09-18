@@ -21,5 +21,9 @@
     "airbnb",
     "react",
     "prettier"
+  ],
+  "files": [
+    "config.eslintrc.js",
+    "index.js"
   ]
 }
